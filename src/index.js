@@ -5,7 +5,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
     <div>
-        Food Ordering App
+        Food Ordering App 
     </div>,
     document.getElementById('root')
 );
